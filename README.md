@@ -1,4 +1,4 @@
-# Bitly Coding Challenge
+# Coding Challenge
 
 Hello, thank you for the opportunity to complete this challenge. While I have some experience in Go,
 I chose to use Python (3.10.7) as it is the language I am most comfortable with, and know the best. The
